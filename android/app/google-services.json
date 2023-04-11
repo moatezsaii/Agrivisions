@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "632656962180",
+    "project_id": "agrivision-a713f",
+    "storage_bucket": "agrivision-a713f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632656962180:android:f8961f3829d1daf68418d1",
+        "android_client_info": {
+          "package_name": "com.mycompany.agrivision"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632656962180-ocq7gdnv81cac7d8hec4outd1em0d5nb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.agrivision",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "632656962180-qf33fhc9kfvajic9u7r4lbk3b81b686q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFYAS1_INrkghBnMKAPh5jtGaLmONO9Mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632656962180-qf33fhc9kfvajic9u7r4lbk3b81b686q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "632656962180-8i9v4h0dc9igu5lhshads59b38tbhbqq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.agrivision"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

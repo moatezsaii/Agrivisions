@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>632656962180-8i9v4h0dc9igu5lhshads59b38tbhbqq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.632656962180-8i9v4h0dc9igu5lhshads59b38tbhbqq</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>632656962180-ocq7gdnv81cac7d8hec4outd1em0d5nb.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCpyG6t34foHcrLqxKZsTRrguWUmeq-t30</string>
+	<key>GCM_SENDER_ID</key>
+	<string>632656962180</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.agrivision</string>
+	<key>PROJECT_ID</key>
+	<string>agrivision-a713f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>agrivision-a713f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:632656962180:ios:9d575a864963f3058418d1</string>
+</dict>
+</plist>
